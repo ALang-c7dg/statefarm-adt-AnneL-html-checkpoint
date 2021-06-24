@@ -1,6 +1,16 @@
 .returned {
     font-style: italic;
-  }
+}
 #comments {
+  padding: 2%;
+  height: 10%;
+  width: 25%;
   background-color:gray;
 }  
+#comments div {
+  padding: 2%;
+  background-color:lightgray;
+}
+#comments textarea {
+  background-color: white;
+}
