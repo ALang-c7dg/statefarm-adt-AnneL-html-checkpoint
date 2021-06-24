@@ -1,5 +1,12 @@
-p {
-    width: 200px;
-    height: 200px;
-    background-color: red;
+body {
+    margin: 30px;
+    text-align: left;
+}
+article{
+    background-color:gainsboro;
+}
+table {
+    margin: 20px;
+    text-align: center;
+    background-color: aliceblue;
   }
